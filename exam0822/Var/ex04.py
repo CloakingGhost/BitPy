@@ -5,3 +5,4 @@ print(str.split())
 str = str.replace(" ",":")
 str = str.split(':')
 print(str)
+
