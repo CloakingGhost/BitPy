@@ -1,0 +1,3 @@
+import paper
+
+paper.ShowMeTheMoney()
